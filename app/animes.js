@@ -1,4 +1,4 @@
-var animes = 
+animes = 
 [
 	[
 		{
