@@ -1,5 +1,5 @@
-{
-"animes": [
+var animes = 
+[
 	[
 		{
 		"name":"kakegurui 2nd season",
@@ -922,4 +922,3 @@
 		
 	]
 ]
-}
