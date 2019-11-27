@@ -871,7 +871,7 @@ animes =
 		"img":"https://cdn.myanimelist.net/images/anime/2/50023.jpg",
 		"link":"https://myanimelist.net/anime/6594/",
 		"score":"8/10",
-		"comment":"w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w "
+		"comment":"unique anime, i have nothing to say. it is so special, only itself can show its message"
 		},
 		{
 		"name":"bokutachi wa benkyou ga dekinai",
