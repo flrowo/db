@@ -919,6 +919,15 @@ animes =
 		"score":"9.5/10",
 		"comment":""
 		},
+		{
+		"name":"bakemonogatari",
+		"start":[2020,1,13],
+		"end":["?","?","?"],
+		"img":"https://cdn.myanimelist.net/images/anime/11/75274.jpg",
+		"link":"https://myanimelist.net/anime/5081",
+		"score":"?/10",
+		"comment":""
+		}
 		
 	]
 ]
