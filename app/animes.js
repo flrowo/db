@@ -922,7 +922,7 @@ animes =
 		{
 		"name":"bakemonogatari",
 		"start":[2020,1,13],
-		"end":["?","?","?"],
+		"end":[2020,1,20],
 		"img":"https://cdn.myanimelist.net/images/anime/11/75274.jpg",
 		"link":"https://myanimelist.net/anime/5081",
 		"score":"?/10",
