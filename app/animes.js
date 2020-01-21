@@ -82,9 +82,10 @@ animes =
 		"link":"https://myanimelist.net/anime/329/"
 		},
 		{
-		"name":"sennen joyuu (movie)",
+		"name":"sennen joyuu",
 		"img":"https://cdn.myanimelist.net/images/anime/1648/93626.jpg",
-		"link":"https://myanimelist.net/anime/1033/"
+		"link":"https://myanimelist.net/anime/1033/",
+		"media":"movie"
 		},
 		{
 		"name":"prince of stride: alternative",
@@ -156,8 +157,75 @@ animes =
 		"name":"yuru camp",
 		"img":"https://cdn.myanimelist.net/images/anime/4/89877.jpg",
 		"link":"https://myanimelist.net/anime/34798/"
+		},
+		{
+		"name":"3gatsu no lion",
+		"img":"https://cdn.myanimelist.net/images/anime/6/82898.jpg",
+		"link":"https://myanimelist.net/anime/31646/3-gatsu_no_Lion"
+		},
+		{
+		"name":"nisemonogatari",
+		"img":"https://cdn.myanimelist.net/images/anime/1044/103654.jpg",
+		"link":"https://myanimelist.net/anime/11597/Nisemonogatari"
+		},
+		{
+		"name":"nekomonogatari: kuro",
+		"img":"https://cdn.myanimelist.net/images/anime/4/84001.jpg",
+		"link":"https://myanimelist.net/anime/15689/Nekomonogatari__Kuro"
+		},
+		{
+		"name":"monogatari series second season",
+		"img":"https://cdn.myanimelist.net/images/anime/3/52133.jpg",
+		"link":"https://myanimelist.net/anime/17074/Monogatari_Series__Second_Season"
+		},
+		{
+		"name":"hanamonogatari",
+		"img":"https://cdn.myanimelist.net/images/anime/13/65755.jpg",
+		"link":"https://myanimelist.net/anime/21855/Hanamonogatari"
+		},
+		{
+		"name":"tsukimonogatari",
+		"img":"https://cdn.myanimelist.net/images/anime/6/68259.jpg",
+		"link":"https://myanimelist.net/anime/28025/Tsukimonogatari"
+		},
+		{
+		"name":"owarimonogatari",
+		"img":"https://cdn.myanimelist.net/images/anime/8/76479.jpg",
+		"link":"https://myanimelist.net/anime/31181/Owarimonogatari"
+		},
+		{
+		"name":"koyomimonogatari",
+		"img":"https://cdn.myanimelist.net/images/anime/2/77744.jpg",
+		"link":"https://myanimelist.net/anime/32268/Koyomimonogatari"
+		},
+		{
+		"name":"kizumonogatari I",
+		"img":"https://cdn.myanimelist.net/images/anime/11/80621.jpg",
+		"link":"https://myanimelist.net/anime/9260/Kizumonogatari_I__Tekketsu-hen",
+		"media":"movie"
+		},
+		{
+		"name":"kizumonogatari II",
+		"img":"https://cdn.myanimelist.net/images/anime/8/80930.jpg",
+		"link":"https://myanimelist.net/anime/31757/Kizumonogatari_II__Nekketsu-hen",
+		"media":"movie"
+		},
+		{
+		"name":"kizumonogatari III",
+		"img":"https://cdn.myanimelist.net/images/anime/3/81576.jpg",
+		"link":"https://myanimelist.net/anime/31758/Kizumonogatari_III__Reiketsu-hen",
+		"media":"movie"
+		},
+		{
+		"name":"owarimonogatari 2",
+		"img":"https://cdn.myanimelist.net/images/anime/6/87322.jpg",
+		"link":"https://myanimelist.net/anime/35247/Owarimonogatari_2nd_Season"
+		},
+		{
+		"name":"zoku owarimonogatari",
+		"img":"https://cdn.myanimelist.net/images/anime/1022/96168.jpg",
+		"link":"https://myanimelist.net/anime/36999/Zoku_Owarimonogatari"
 		}
-		
 	],
 	[
 		{
