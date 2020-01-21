@@ -870,7 +870,7 @@ animes =
 		"end":[2019,2,15],
 		"img":"https://cdn.myanimelist.net/images/anime/2/50023.jpg",
 		"link":"https://myanimelist.net/anime/6594/",
-		"score":"8/10",
+		"score":"9/10",
 		"comment":"unique anime, i have nothing to say. it is so special, only itself can show its message"
 		},
 		{
@@ -879,7 +879,7 @@ animes =
 		"end":[2019,8,9],
 		"img":"https://cdn.myanimelist.net/images/anime/1062/94899.jpg",
 		"link":"https://myanimelist.net/anime/38186/",
-		"score":"8.5/10",
+		"score":"8/10",
 		"comment":"i think most people can only hate or love a harem comedy with lack of character development, but cute moments, fanservice and not bad animation made i watch this with laughs and embarrassment. for this type of anime, it isn't bad at all. simply: just that silly anime nothing happens, but you feel heart warmed with it"
 		},
 		{
@@ -925,8 +925,8 @@ animes =
 		"end":[2020,1,20],
 		"img":"https://cdn.myanimelist.net/images/anime/11/75274.jpg",
 		"link":"https://myanimelist.net/anime/5081",
-		"score":"?/10",
-		"comment":""
+		"score":"8.5/10",
+		"comment":"everything you see is a point of view"
 		}
 		
 	]
