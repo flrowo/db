@@ -948,7 +948,7 @@ animes =
 		"img":"https://cdn.myanimelist.net/images/anime/1062/94899.jpg",
 		"link":"https://myanimelist.net/anime/38186/",
 		"score":"8/10",
-		"comment":"i think most people can only hate or love a harem comedy with lack of character development, but cute moments, fanservice and not bad animation made i watch this with laughs and embarrassment. for this type of anime, it isn't bad at all. simply: just that silly anime nothing happens, but you feel heart warmed with it"
+		"comment":"i think most people can only hate or love a harem comedy with lack of character development, but cute moments, fanservice and not bad animation made me watch this with laughs and embarrassment. for this type of anime, it isn't bad at all. simply: just that silly anime nothing happens, but you feel heart warmed with it"
 		},
 		{
 		"name":"made in abyss",
