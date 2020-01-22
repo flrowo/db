@@ -159,11 +159,6 @@ animes =
 		"link":"https://myanimelist.net/anime/34798/"
 		},
 		{
-		"name":"3gatsu no lion",
-		"img":"https://cdn.myanimelist.net/images/anime/6/82898.jpg",
-		"link":"https://myanimelist.net/anime/31646/3-gatsu_no_Lion"
-		},
-		{
 		"name":"nisemonogatari",
 		"img":"https://cdn.myanimelist.net/images/anime/1044/103654.jpg",
 		"link":"https://myanimelist.net/anime/11597/Nisemonogatari"
@@ -225,6 +220,11 @@ animes =
 		"name":"zoku owarimonogatari",
 		"img":"https://cdn.myanimelist.net/images/anime/1022/96168.jpg",
 		"link":"https://myanimelist.net/anime/36999/Zoku_Owarimonogatari"
+		},
+		{
+		"name":"koe no katachi",
+		"img":"https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+		"link":"https://myanimelist.net/anime/28851/Koe_no_Katachi"
 		}
 	],
 	[
@@ -995,7 +995,15 @@ animes =
 		"link":"https://myanimelist.net/anime/5081",
 		"score":"8.5/10",
 		"comment":"everything you see is a point of view"
+		},
+		{
+		"name":"3gatsu no lion",
+		"start":[2020,1,22],
+		"end":["?","?","?"],
+		"img":"https://cdn.myanimelist.net/images/anime/6/82898.jpg",
+		"link":"https://myanimelist.net/anime/31646/3-gatsu_no_Lion",
+		"score":"?/10",
+		"comment":""
 		}
-		
 	]
 ]
