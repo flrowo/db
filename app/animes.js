@@ -3,7 +3,7 @@ animes =
 	[
 		{
 		"name":"eizouken ni wa te wo dasuna",
-		"img":"https://cdn.myanimelist.net/images/anime/1151/93653.jpg",
+		"img":"https://cdn.myanimelist.net/images/anime/1950/104498.jpg",
 		"link":"https://myanimelist.net/anime/39792"
 		},
 		{
