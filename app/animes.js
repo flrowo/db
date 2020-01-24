@@ -2,11 +2,6 @@ animes =
 [
 	[
 		{
-		"name":"eizouken ni wa te wo dasuna",
-		"img":"https://cdn.myanimelist.net/images/anime/1950/104498.jpg",
-		"link":"https://myanimelist.net/anime/39792"
-		},
-		{
 		"name":"kakegurui 2nd season",
 		"img":"https://cdn.myanimelist.net/images/anime/1151/93653.jpg",
 		"link":"https://myanimelist.net/anime/37086"
@@ -59,7 +54,8 @@ animes =
 		{
 		"name":"kimi no na wa",
 		"img":"https://cdn.myanimelist.net/images/anime/5/87048.jpg",
-		"link":"https://myanimelist.net/anime/32281"
+		"link":"https://myanimelist.net/anime/32281",
+		"media":"movie"
 		},
 		{
 		"name":"sidonia no kishi",
@@ -224,12 +220,8 @@ animes =
 		{
 		"name":"zoku owarimonogatari",
 		"img":"https://cdn.myanimelist.net/images/anime/1022/96168.jpg",
-		"link":"https://myanimelist.net/anime/36999"
-		},
-		{
-		"name":"koe no katachi",
-		"img":"https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
-		"link":"https://myanimelist.net/anime/28851"
+		"link":"https://myanimelist.net/anime/36999",
+		"media":"movie"
 		}
 	],
 	[
@@ -1009,6 +1001,15 @@ animes =
 		"link":"https://myanimelist.net/anime/31646/3-gatsu_no_Lion",
 		"score":"?/10",
 		"comment":""
-		}
+		},
+		{
+		"name":"eizouken ni wa te wo dasuna",
+		"start":[2020,1,23],
+		"end":["?","?","?"],
+		"img":"https://cdn.myanimelist.net/images/anime/1950/104498.jpg",
+		"link":"https://myanimelist.net/anime/39792"
+		"score":"?/10",
+		"comment":""
+		},
 	]
 ]
