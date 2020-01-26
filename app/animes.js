@@ -1007,7 +1007,7 @@ animes =
 		"start":[2020,1,23],
 		"end":["?","?","?"],
 		"img":"https://cdn.myanimelist.net/images/anime/1950/104498.jpg",
-		"link":"https://myanimelist.net/anime/39792"
+		"link":"https://myanimelist.net/anime/39792",
 		"score":"?/10",
 		"comment":""
 		},
