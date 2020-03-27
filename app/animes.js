@@ -970,7 +970,7 @@ animes =
 		"start":[2017,"?","?"],
 		"end":[2018,"?","?"],
 		"img":"https://cdn.myanimelist.net/images/manga/2/203854.jpg",
-		"link":"https://myanimelist.net/manga/2",
+		"link":"https://myanimelist.net/manga/3468",
 		"score":"9.5/10",
 		"comment":"",
 		"media":"manga"
