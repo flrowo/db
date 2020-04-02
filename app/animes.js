@@ -996,7 +996,7 @@ animes =
 		{
 		"name":"3gatsu no lion",
 		"start":[2020,1,22],
-		"end":["?","?","?"],
+		"end":[2020,3,18],
 		"img":"https://cdn.myanimelist.net/images/anime/6/82898.jpg",
 		"link":"https://myanimelist.net/anime/31646/3-gatsu_no_Lion",
 		"score":"?/10",
