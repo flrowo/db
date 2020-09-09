@@ -1003,11 +1003,11 @@ animes =
 		"comment":""
 		},
 		{
-		"name":"eizouken ni wa te wo dasuna",
-		"start":[2020,1,23],
+		"name":"BNA: brand new animal",
+		"start":[2020,9,9],
 		"end":["?","?","?"],
-		"img":"https://cdn.myanimelist.net/images/anime/1950/104498.jpg",
-		"link":"https://myanimelist.net/anime/39792",
+		"img":"https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
+		"link":"https://myanimelist.net/anime/40060",
 		"score":"?/10",
 		"comment":""
 		},
