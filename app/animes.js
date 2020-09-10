@@ -1005,11 +1005,11 @@ animes =
 		{
 		"name":"BNA: brand new animal",
 		"start":[2020,9,9],
-		"end":["?","?","?"],
+		"end":[2020,9,10],
 		"img":"https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
 		"link":"https://myanimelist.net/anime/40060",
-		"score":"?/10",
-		"comment":""
+		"score":"7/10",
+		"comment":"i liked it, no regrets at all, i loved those trigger studios things like the animation, character design, etc, but what was that script??????? likelihood isn't a word for the screenwriters: the main characters aren't solid at all (only michiru and oogami, they would receive 9/10 and 8/10, respectively). an example of something that bothers me is ep 04 at 18 mins (aprox), out of nowhere, THEY THREW NINA (the dolphin) AT SOME AQUARIUM AND JUST WHY??? THE ANSWER WAS BECAUSE SHE WAS TIRED, T I R E D!!!!! AND WHAT THE HELL THEY WOULD LOCK HER INSIDE THAT THING???? and there is another one: in the same episode, at 5m47s, flip would kill a guy, he threw a rock tied with a rope, that is also tied to the guy that's going to be killed, AND A SMALL ROCK SOMEHOW PULLS THE GUY TO THE WATER! some would argue that the rope got stuck in the boat, but it didn't. maybe that flip has really good accuracy to perfectly hit that shot, but i don't believe it ok. the other possibility is that the rock went far below and pulled the guy to drown, BUT THE ROCK IS NOT THAT HEAVY! but this type of things wouldn't alone make the score less than 7, so there it is"
 		},
 	]
 ]
