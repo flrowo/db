@@ -927,7 +927,8 @@ animes =
 		"end":["?","?","?"],
 		"img":"https://cdn.myanimelist.net/images/manga/3/188962.jpg",
 		"link":"https://myanimelist.net/manga/99007",
-		"score":"?/10"
+		"score":"?/10",
+		"media":"manga"
 		},
 		{
 		"name":"katanagatari",
@@ -999,7 +1000,7 @@ animes =
 		"end":[2020,3,18],
 		"img":"https://cdn.myanimelist.net/images/anime/6/82898.jpg",
 		"link":"https://myanimelist.net/anime/31646/3-gatsu_no_Lion",
-		"score":"?/10",
+		"score":"8.5/10",
 		"comment":""
 		},
 		{
