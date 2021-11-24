@@ -1021,5 +1021,14 @@ animes =
 		"score":"?/10",
 		"comment":""
 		},
+		{
+		"name":"Kaiji: Ultimate Survivor",
+		"start":[2021,11,24],
+		"end":[2021,"?","?"],
+		"img":"https://cdn.myanimelist.net/images/anime/12/80032.jpg",
+		"link":"https://myanimelist.net/anime/3002",
+		"score":"?/10",
+		"comment":""
+		},
 	]
 ]
