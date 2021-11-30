@@ -1024,11 +1024,11 @@ animes =
 		{
 		"name":"Kaiji: Ultimate Survivor",
 		"start":[2021,11,24],
-		"end":[2021,"?","?"],
+		"end":[2021,11,28],
 		"img":"https://cdn.myanimelist.net/images/anime/12/80032.jpg",
 		"link":"https://myanimelist.net/anime/3002",
-		"score":"?/10",
-		"comment":""
+		"score":"7/10",
+		"comment":"the 2nd half could be a lot better. the pacing of it is so slow to get any pros. but the first half is really good, it shows perfectly everything about the moral and ethics about taking advantage from others. there are basic stuff about gambling itself, like cheating and some psychological stuff. would recommemd to watch until around ep 12. after that the anime becomes darker and darker until it becomes boring: with only basic logic around gambling and explaining simple things with a whole episode..."
 		},
 	]
 ]
