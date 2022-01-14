@@ -1033,11 +1033,11 @@ animes =
 		{
 		"name":"Odd Taxi",
 		"start":[2022,01,10],
-		"end":[2022,"?","?"],
+		"end":[2022,01,13],
 		"img":"https://cdn.myanimelist.net/images/anime/1981/113348.jpg",
 		"link":"https://myanimelist.net/anime/46102",
-		"score":"?/10",
-		"comment":""
+		"score":"9/10",
+		"comment":"awesome"
 		},
 	]
 ]
