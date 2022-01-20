@@ -1015,7 +1015,7 @@ animes =
 		{
 		"name":"xxxHOLiC",
 		"start":[2021,8,27],
-		"end":[2021,"?","?"],
+		"end":["?","?","?"],
 		"img":"https://cdn.myanimelist.net/images/anime/5/21858.jpg",
 		"link":"https://myanimelist.net/anime/861",
 		"score":"?/10",
@@ -1037,7 +1037,7 @@ animes =
 		"img":"https://cdn.myanimelist.net/images/anime/1981/113348.jpg",
 		"link":"https://myanimelist.net/anime/46102",
 		"score":"9/10",
-		"comment":"awesome"
+		"comment":"just awesome, has a lot of balance between things happening and context been told. but it's not perfect. it's like a fan made anime, but a really well done fan made anime that i wanted to not finish, and i would watch a second season if there was (even tho i don't think it would be good considering how the end was)"
 		},
 	]
 ]
