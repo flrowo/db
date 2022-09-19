@@ -2,106 +2,9 @@ animes =
 [
 	[
 		{
-		"name":"kakegurui 2nd season",
-		"img":"https://cdn.myanimelist.net/images/anime/1151/93653.jpg",
-		"link":"https://myanimelist.net/anime/37086"
-		},
-		{
-		"name":"yuru yuri 2",
-		"img":"https://cdn.myanimelist.net/images/anime/8/75174.jpg",
-		"link":"https://myanimelist.net/anime/12403"
-		},
-		{
-		"name":"bokusatsu tenshi dokuro-chan",
-		"img":"https://cdn.myanimelist.net/images/anime/10/13210.jpg",
-		"link":"https://myanimelist.net/anime/357"
-		},
-		{
-		"name":"asobi asobase",
-		"img":"https://cdn.myanimelist.net/images/anime/1139/95077.jpg",
-		"link":"https://myanimelist.net/anime/37171"
-		},
-		{
-		"name":"demi-chan wa kataritai",
-		"img":"https://cdn.myanimelist.net/images/anime/8/83417.jpg",
-		"link":"https://myanimelist.net/anime/33988"
-		},
-		{
-		"name":"koe no katachi",
-		"img":"https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
-		"link":"https://myanimelist.net/anime/28851"
-		},
-		{
-		"name":"mikagura gakuen kumikyou",
-		"img":"https://cdn.myanimelist.net/images/anime/6/73590.jpg",
-		"link":"https://myanimelist.net/anime/28817"
-		},
-		{
-		"name":"inuyasha",
-		"img":"https://cdn.myanimelist.net/images/anime/1589/95329.jpg",
-		"link":"https://myanimelist.net/anime/249",
-		},
-		{
-		"name":"assassination classroom",
-		"img":"https://cdn.myanimelist.net/images/anime/5/75639.jpg",
-		"link":"https://myanimelist.net/anime/24833"
-		},
-		{
-		"name":"violet evergarden",
-		"img":"https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
-		"link":"https://myanimelist.net/anime/33352"
-		},
-		{
-		"name":"kimi no na wa",
-		"img":"https://cdn.myanimelist.net/images/anime/5/87048.jpg",
-		"link":"https://myanimelist.net/anime/32281",
-		"media":"movie"
-		},
-		{
-		"name":"sidonia no kishi",
-		"img":"https://cdn.myanimelist.net/images/anime/12/53257.jpg",
-		"link":"https://myanimelist.net/anime/19775"
-		},
-		{
-		"name":"shokugeki no souma",
-		"img":"https://cdn.myanimelist.net/images/anime/3/72943l.jpg",
-		"link":"https://myanimelist.net/anime/28171"
-		},
-		{
-		"name":"sora yori mo tooi basho",
-		"img":"https://cdn.myanimelist.net/images/anime/6/89879.jpg",
-		"link":"https://myanimelist.net/anime/35839"
-		},
-		{
-		"name":"ouran koukou host club",
-		"img":"https://cdn.myanimelist.net/images/anime/2/71992.jpg",
-		"link":"https://myanimelist.net/anime/853"
-		},
-		{
 		"name":"planetes",
 		"img":"https://cdn.myanimelist.net/images/anime/8/50463l.jpg",
 		"link":"https://myanimelist.net/anime/329"
-		},
-		{
-		"name":"sennen joyuu",
-		"img":"https://cdn.myanimelist.net/images/anime/1648/93626.jpg",
-		"link":"https://myanimelist.net/anime/1033",
-		"media":"movie"
-		},
-		{
-		"name":"prince of stride: alternative",
-		"img":"https://cdn.myanimelist.net/images/anime/6/77842.jpg",
-		"link":"https://myanimelist.net/anime/31559"
-		},
-		{
-		"name":"natsume yuujinchou",
-		"img":"https://cdn.myanimelist.net/images/anime/7/28859.jpg",
-		"link":"https://myanimelist.net/anime/4081"
-		},
-		{
-		"name":"saiki kusuo no ?-nan",
-		"img":"https://cdn.myanimelist.net/images/anime/11/80167l.jpg",
-		"link":"https://myanimelist.net/anime/33255"
 		},
 		{
 		"name":"michiko no hatchin",
@@ -109,120 +12,15 @@ animes =
 		"link":"https://myanimelist.net/anime/4087"
 		},
 		{
-		"name":"cencoroll",
-		"img":"https://cdn.myanimelist.net/images/anime/7/75930.jpg",
-		"link":"https://myanimelist.net/anime/3087",
-		"media":"movie"
-		},
-		{
-		"name":"bokura wa minna kawai-sou",
-		"img":"https://cdn.myanimelist.net/images/anime/6/64629.jpg",
-		"link":"https://myanimelist.net/anime/21405"
-		},
-		{
-		"name":"oreshura",
-		"img":"https://cdn.myanimelist.net/images/anime/13/44187.jpg",
-		"link":"https://myanimelist.net/anime/14749"
-		},
-		{
-		"name":"konohana kitan",
-		"img":"https://cdn.myanimelist.net/images/anime/3/88431.jpg",
-		"link":"https://myanimelist.net/anime/35241"
-		},
-		{
-		"name":"code geass 1",
-		"img":"https://cdn.myanimelist.net/images/anime/5/50331.jpg",
-		"link":"https://myanimelist.net/anime/1575"
-		},
-		{
-		"name":"code geass 2",
-		"img":"https://cdn.myanimelist.net/images/anime/4/9391.jpg",
-		"link":"https://myanimelist.net/anime/2904"
-		},
-		{
 		"name":"cowboy bebop",
 		"img":"https://cdn.myanimelist.net/images/anime/4/19644.jpg",
 		"link":"https://myanimelist.net/anime/1"
 		},
 		{
-		"name":"gin no saji",
-		"img":"https://cdn.myanimelist.net/images/anime/6/49237.jpg",
-		"link":"https://myanimelist.net/anime/16918"
+		"name":"kuuchuu buranko",
+		"img":"https://cdn.myanimelist.net/images/anime/3/18386.jpg",
+		"link":"https://myanimelist.net/anime/6774"
 		},
-		{
-		"name":"chihayafuru",
-		"img":"https://cdn.myanimelist.net/images/anime/3/35749.jpg",
-		"link":"https://myanimelist.net/anime/10800"
-		},
-		{
-		"name":"yuru camp",
-		"img":"https://cdn.myanimelist.net/images/anime/4/89877.jpg",
-		"link":"https://myanimelist.net/anime/34798"
-		},
-		{
-		"name":"nisemonogatari",
-		"img":"https://cdn.myanimelist.net/images/anime/1044/103654.jpg",
-		"link":"https://myanimelist.net/anime/11597"
-		},
-		{
-		"name":"nekomonogatari: kuro",
-		"img":"https://cdn.myanimelist.net/images/anime/4/84001.jpg",
-		"link":"https://myanimelist.net/anime/15689"
-		},
-		{
-		"name":"monogatari series second season",
-		"img":"https://cdn.myanimelist.net/images/anime/3/52133.jpg",
-		"link":"https://myanimelist.net/anime/17074"
-		},
-		{
-		"name":"hanamonogatari",
-		"img":"https://cdn.myanimelist.net/images/anime/13/65755.jpg",
-		"link":"https://myanimelist.net/anime/21855"
-		},
-		{
-		"name":"tsukimonogatari",
-		"img":"https://cdn.myanimelist.net/images/anime/6/68259.jpg",
-		"link":"https://myanimelist.net/anime/28025"
-		},
-		{
-		"name":"owarimonogatari",
-		"img":"https://cdn.myanimelist.net/images/anime/8/76479.jpg",
-		"link":"https://myanimelist.net/anime/31181"
-		},
-		{
-		"name":"koyomimonogatari",
-		"img":"https://cdn.myanimelist.net/images/anime/2/77744.jpg",
-		"link":"https://myanimelist.net/anime/32268"
-		},
-		{
-		"name":"kizumonogatari I",
-		"img":"https://cdn.myanimelist.net/images/anime/11/80621.jpg",
-		"link":"https://myanimelist.net/anime/9260",
-		"media":"movie"
-		},
-		{
-		"name":"kizumonogatari II",
-		"img":"https://cdn.myanimelist.net/images/anime/8/80930.jpg",
-		"link":"https://myanimelist.net/anime/31757",
-		"media":"movie"
-		},
-		{
-		"name":"kizumonogatari III",
-		"img":"https://cdn.myanimelist.net/images/anime/3/81576.jpg",
-		"link":"https://myanimelist.net/anime/31758",
-		"media":"movie"
-		},
-		{
-		"name":"owarimonogatari 2",
-		"img":"https://cdn.myanimelist.net/images/anime/6/87322.jpg",
-		"link":"https://myanimelist.net/anime/35247"
-		},
-		{
-		"name":"zoku owarimonogatari",
-		"img":"https://cdn.myanimelist.net/images/anime/1022/96168.jpg",
-		"link":"https://myanimelist.net/anime/36999",
-		"media":"movie"
-		}
 	],
 	[
 		{
