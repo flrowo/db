@@ -837,5 +837,14 @@ animes =
 		"score":"9/10",
 		"comment":"just awesome, has a lot of balance between things happening and context been told. but it's not perfect. it's like a fan made anime, but a really well done fan made anime that i wanted to not finish, and i would watch a second season if there was (even tho i don't think it would be good considering how the end was)"
 		},
+		{
+		"name":"Azumanga Daioh",
+		"start":[2024,01,10],
+		"end":[2024,03,31],
+		"img":"https://cdn.myanimelist.net/images/anime/1066/117358.jpg",
+		"link":"https://myanimelist.net/anime/66",
+		"score":"10/10",
+		"comment":""
+		},
 	]
 ]
