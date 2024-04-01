@@ -839,7 +839,7 @@ animes =
 		},
 		{
 		"name":"Azumanga Daioh",
-		"start":[2024,01,10],
+		"start":[2024,02,14],
 		"end":[2024,03,31],
 		"img":"https://cdn.myanimelist.net/images/anime/1066/117358.jpg",
 		"link":"https://myanimelist.net/anime/66",
