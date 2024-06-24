@@ -846,5 +846,14 @@ animes =
 		"score":"10/10",
 		"comment":""
 		},
+		{
+		"name":"Azumanga Daioh",
+		"start":[2024,06,08],
+		"end":["?","?","?"],
+		"img":"https://cdn.myanimelist.net/images/anime/1448/127956.jpg",
+		"link":"https://myanimelist.net/anime/47917",
+		"score":"?/10",
+		"comment":""
+		},
 	]
 ]
