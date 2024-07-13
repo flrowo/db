@@ -847,7 +847,7 @@ animes =
 		"comment":""
 		},
 		{
-		"name":"Azumanga Daioh",
+		"name":"Bocchi the Rock!",
 		"start":[2024,06,08],
 		"end":["?","?","?"],
 		"img":"https://cdn.myanimelist.net/images/anime/1448/127956.jpg",
