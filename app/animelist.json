@@ -829,8 +829,8 @@
 		},
 		{
 		"name":"Odd Taxi",
-		"start":[2022,01,10],
-		"end":[2022,01,13],
+		"start":[2022,1,10],
+		"end":[2022,1,13],
 		"img":"https://cdn.myanimelist.net/images/anime/1981/113348.jpg",
 		"link":"https://myanimelist.net/anime/46102",
 		"score":"9/10",
@@ -838,8 +838,8 @@
 		},
 		{
 		"name":"Azumanga Daioh",
-		"start":[2024,02,14],
-		"end":[2024,03,31],
+		"start":[2024,2,14],
+		"end":[2024,3,31],
 		"img":"https://cdn.myanimelist.net/images/anime/1066/117358.jpg",
 		"link":"https://myanimelist.net/anime/66",
 		"score":"10/10",
@@ -847,7 +847,7 @@
 		},
 		{
 		"name":"Bocchi the Rock!",
-		"start":[2024,06,08],
+		"start":[2024,6,8],
 		"end":["?","?","?"],
 		"img":"https://cdn.myanimelist.net/images/anime/1448/127956.jpg",
 		"link":"https://myanimelist.net/anime/47917",
